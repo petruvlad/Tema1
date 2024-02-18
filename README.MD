@@ -8,4 +8,4 @@
    ![Add Contact](https://monosnap.com/file/6ZXNm8g1mptUWZjSRkcpUD079ZibYY)
 
 4. Remove Contact:
-   ![Remove Contact](https://monosnap.com/file/zGQKDNyHzGmiwsJ1h1eP2bK9PgiFnu)
+   ![Remove Contact](https://monosnap.com/file/e31oEYbvNK5sQs1Cfx2oJEudIXsOyS)
